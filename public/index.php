@@ -1,6 +1,6 @@
 <?php
 
-echo "<a href="/test.php>Hello</a>";
+echo '<a href="/test.php">Hello</a>';
 
-phpinfo();
+echo phpinfo();
 ?>
