@@ -1,4 +1,3 @@
 <?php
-	echo $_ENV;
-
+	echo print_r($_ENV);
 ?>
