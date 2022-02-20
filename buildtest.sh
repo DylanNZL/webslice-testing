@@ -7,3 +7,4 @@ echo "Touching file inside generated_dir"
 touch generated_dir/file.txt
 exit 1
 
+
